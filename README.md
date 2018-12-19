@@ -83,17 +83,17 @@
 
 ----
 
-2018-12월 1주차 : 
+** 2018-12월 1주차 : **
 >GCP기반 VM설치후 서버감시 웹프로그램 프로젝트
 >>https://github.com/ByoungSooPark/phpservermon_kr
 
-2018-12월 2주차 : 
+** 2018-12월 2주차 : **
 >GCP기반 VM설치후 rest API 서버 구축 프로젝트
 >>https://github.com/ddmsme/Calendar
 
 >GCP기반 메일서버 구축
 >>https://github.com/brandonahn/web-mail
 
-2018-12월 3주차 : 
+** 2018-12월 3주차 : **
 >AWS기반 VPC 구성 프로젝트
 >>https://github.com/dockerdongjin/aws-network-examples
