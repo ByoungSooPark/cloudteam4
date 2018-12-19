@@ -49,10 +49,10 @@
 
 조원
 
-*박한열 (fmrk98@gmail.com)
-*신동민 (dms8837@gmail.com)
-*안흥철 (jamesahn2501@gmail.com)
-*오동진 (csco0130@gmail.com)
+>박한열 (fmrk98@gmail.com)
+>신동민 (dms8837@gmail.com)
+>안흥철 (jamesahn2501@gmail.com)
+>오동진 (csco0130@gmail.com)
 
 
 2018-12월 1주차 : 
