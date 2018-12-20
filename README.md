@@ -81,7 +81,7 @@
 
 >신동민 (dms8837@gmail.com)
 
->안흥철 (jamesahn2501@gmail.com)
+>안응철 (jamesahn2501@gmail.com)
 
 >오동진 (csco0130@gmail.com)
 
