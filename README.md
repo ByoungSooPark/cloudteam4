@@ -99,13 +99,13 @@
 >>https://github.com/brandonahn/web-mail
 
 **2018-12월 3주차 :**
->AWS기반 VPC 구성 프로젝트
+>AWS 교육 실습 프로젝트
 >>https://github.com/dockerdongjin/aws-network-examples
 
 >Docker 활용 예제
 >>https://github.com/haneal/DockerRepo
 
 **2018-12월 4주차 :**
->kubernetes 어드민과 마스터 구성
+>kubernetes 교육 실습
 >>https://github.com/dockerdongjin/Kubernetes
 
