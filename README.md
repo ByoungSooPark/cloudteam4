@@ -112,3 +112,17 @@
 >AWS 자격증 학습
 >>Architect-Associate(https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
 
+**2019-1월 1주차 :**
+>실습 프로젝트
+>>https://github.com/ddmsme/minio
+
+
+
+
+
+
+
+
+
+
+
